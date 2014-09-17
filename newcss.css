@@ -1,0 +1,35 @@
+body{
+    width:960px;
+    margin:10px;
+    background-color: #3B5998;
+}
+h1{
+    background-color:#293E61;
+    color:#77BA9B;
+    fontfamily:Impact;
+    Font-size:40px;
+    padding:10px;
+}
+p{
+    font-family:Arial;
+    font-size:18px;
+    color:#639BF1;
+    margin-left:20px;
+}
+img{  
+    margin-right: 60px;
+    margin-left: 60px;
+}
+img.content{
+    margin:0px;
+    float:right;
+}
+a:link{
+    color:#77BA9B;
+}
+a:hover{
+    color:#B6A754;
+}
+a:visited{
+    color:#57102C;
+}
